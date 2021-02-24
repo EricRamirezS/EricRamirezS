@@ -14,7 +14,7 @@ My name is Eric Ramírez and I'm a software Developer. I'm from Chile
 
 
 - 📫 How to reach me: ...
-  - [<img width="16" heigth="16" src="https://www.pngkey.com/png/full/47-476407_ig-png-png-free-stock-instagram-logo-small.png"> Facebook](https://www.facebook.com/EricRamirezS)
+  - [<img width="16" heigth="16" src="https://i.pinimg.com/originals/30/99/af/3099aff4115ee20f43e3cdad04f59c48.png"> Facebook](https://www.facebook.com/EricRamirezS)
   - [<img width="16" heigth="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"> Instagram](https://www.instagram.com/ericramirezs/)
   - [<img width="16" heigth="16" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1-1.png"> Twitter](https://twitter.com/EricRamirezS1)
   - [<img width="16" heigth="16" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS94q2jCK6IBggwY6f8ITYtzxA33iIf3xLyLQ&usqp=CAU"> Linkedin](https://www.linkedin.com/in/ericramirezs/)
