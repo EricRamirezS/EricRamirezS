@@ -5,12 +5,12 @@
 My name is Eric Ramírez and I'm a software Developer. I'm from Chile
 
 - 🔭 I’m currently working on ...
-  - [<img width="16" heigth="16" src="https://camo.githubusercontent.com/ea83bb4a60ae27b7867a16cd7bb08f506e72b355e7dcc07ece85295a408361fb/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6170702d69636f6e732f3338363030373930373131333736323831362f62653761613262353336663931613633316363353537653135613934643337622e706e67"> Kotohime bot](https://github.com/EricRamirezS/Kotohime-bot)
-  - [<img width="16" heigth="16" src="https://static.thenounproject.com/png/201769-200.png"> Pinball for Android](https://github.com/EricRamirezS/Pinball_Unity)
+  - [<img width="16" heigth="16" src="https://cdn.discordapp.com/app-icons/386007907113762816/c5cbfcc5c98879b98710e4abdd8007d8.png"> Kotohime bot](https://github.com/EricRamirezS/Kotohime-bot)
+  - [<img width="16" heigth="16" src="https://icon-library.com/images/java-icon-images/java-icon-images-8.jpg"> commando4j](https://github.com/EricRamirezS/Pinball_Unity)
 
 - 🌱 I’m currently learning ...
-  - <img width="16" heigth="16" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg"> Unity
-  - <img width="16" heigth="16" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg"> Hibernate
+  - <img width="16" heigth="16" src="https://www.bairesdev.com/wp-content/uploads/2020/07/Spring-Java-Framework-Logo-2-01.png"> Spring
+  - <img width="16" heigth="16" src="https://th.bing.com/th/id/R.49b84b18b2184b24626a7a0d981e7347?rik=cAKEMKjFzTgHdA&pid=ImgRaw&r=0"> Angular
 
 
 - 📫 How to reach me: ...
