@@ -6,7 +6,7 @@ My name is Eric Ramírez and I'm a software Developer. I'm from Chile
 
 - 🔭 I’m currently working on ...
   - [<img width="16" heigth="16" src="https://cdn.discordapp.com/app-icons/386007907113762816/c5cbfcc5c98879b98710e4abdd8007d8.png"> Kotohime bot](https://github.com/EricRamirezS/Kotohime-bot)
-  - [<img width="16" heigth="16" src="https://icon-library.com/images/java-icon-images/java-icon-images-8.jpg"> commando4j](https://github.com/EricRamirezS/Pinball_Unity)
+  - [<img width="16" heigth="16" src="https://icon-library.com/images/java-icon-images/java-icon-images-8.jpg"> commando4j](https://github.com/EricRamirezS/commando4j)
 
 - 🌱 I’m currently learning ...
   - <img width="16" heigth="16" src="https://www.bairesdev.com/wp-content/uploads/2020/07/Spring-Java-Framework-Logo-2-01.png"> Spring
