@@ -29,6 +29,17 @@ I'm a software development enthusiast with a focus on designing and implementing
 ![](https://img.shields.io/badge/Environment-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=2bbc8a)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EricRamirezS&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EricRamirezS&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EricRamirezS&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EricRamirezS&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=EricRamirezS&limit=6&theme=dark&combine_all_yearly_contributions=true)
+
 ## Interests and Hobbies
 Aside from coding, I enjoy:
 - Learning about video game development 🎮
